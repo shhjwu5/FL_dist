@@ -1,0 +1,13 @@
+tensorflow>=2.4.0
+torch>=1.10.0
+matplotlib
+numpy
+scikit-learn
+seaborn
+setuptools
+scipy
+pandas
+jinja2
+pillow
+tqdm
+jupyter
